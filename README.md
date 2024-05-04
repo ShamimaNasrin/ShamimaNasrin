@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/VHK6FR4/Linked-In-Banner.png" alt="" /> </a><p align="center"> 
 <h1 align="center">Hi There👋, I'm Shamima Nasrin</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate web developer</h3>
 
 <br />
 <br />
